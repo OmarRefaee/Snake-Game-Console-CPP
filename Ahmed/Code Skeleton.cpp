@@ -73,12 +73,11 @@ public:
     void resetGame() {
         // TODO: reset snake, direction, score, spawn food
     }
-
-    int main() {
-        cout << "Hello Test" << endl;
-        // TODO: initialize game
-        // TODO: loop: handleInput → moveSnake → eatenFood → isDead → draw
-        return 0;
-    }
-
 };
+
+int main() {
+    cout << "Hello Test" << endl;
+    // TODO: initialize game
+    // TODO: loop: handleInput → moveSnake → eatenFood → isDead → draw
+    return 0;
+}
