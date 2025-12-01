@@ -61,3 +61,13 @@ int main() {
     // TODO: loop: handleInput → moveSnake → eatenFood → isDead → draw
     return 0;
 }
+
+// OOP Classes
+class Snake {
+};
+
+class Board {
+};
+
+class Game {
+};
