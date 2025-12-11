@@ -6,25 +6,27 @@ A classic **Snake Game** implemented as a simple, fast, and efficient console ap
 
 ### 🖼️ Preview
 
+**[Insert Screenshot or Animated GIF of the game running here]**
+
 ---
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
--   **Operating System:** Windows (The project uses Windows-specific libraries like `<conio.h>` and `<Windows.h>`).
+-   **Operating System:** Windows **only**. (The project relies on OS-specific console functions from `<conio.h>` and `<Windows.h>`).
 -   **Compiler:** A C++ compiler (e.g., g++ via MinGW or MSVC) capable of compiling C++11 or later.
 
 ### Setup
 
 1.  Clone this repository:
     ```bash
-    git clone [YOUR-REPO-URL]
+    git clone [https://github.com/OmarRefaee/Snake-Game-Console-CPP](https://github.com/OmarRefaee/Snake-Game-Console-CPP)
     ```
 2.  Navigate to the project directory.
 3.  Compile the source code using your preferred compiler:
     ```bash
-    g++ main.cpp -o SnakeGame.exe
+    g++ SnakeGame.cpp -o SnakeGame.exe
     ```
 4.  Run the executable from your console:
     ```bash
@@ -96,3 +98,9 @@ This project was developed by the following contributors:
 -   **AHMED:** Input + Movement (`Snake` Class)
 -   **ABDO ELSAYED:** Food System (`Board` Class)
 -   **OMAR:** Game Manager (`Game` Class)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** - see the [LICENSE.md](LICENSE.md) file for details.
