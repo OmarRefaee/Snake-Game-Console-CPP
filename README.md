@@ -21,7 +21,7 @@ A classic **Snake Game** implemented as a simple, fast, and efficient console ap
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/OmarRefaee/Snake-Game-Console-CPP](https://github.com/OmarRefaee/Snake-Game-Console-CPP)
+    git clone https://github.com/OmarRefaee/Snake-Game-Console-CPP
     ```
 2.  Navigate to the project directory.
 3.  Compile the source code using your preferred compiler:
