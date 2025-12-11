@@ -6,7 +6,7 @@ A classic **Snake Game** implemented as a simple, fast, and efficient console ap
 
 ### 🖼️ Preview
 
-![Snake Game Demo](assets/snake_game_demo.gif)
+![Snake Game Demo](Assets/snake_game_demo.gif)
 
 ---
 
